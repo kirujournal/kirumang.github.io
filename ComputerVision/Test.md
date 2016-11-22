@@ -4,7 +4,9 @@
 - 그래서 나는
 - 그렇게 생각했다
 
-$\ x=x_i + sin(x^{2i}_2) $
+$\x=x_i + sin(x^{2i}_2)$
+
+
 
 Markdown은 매우 유용하다
 [ ] 이렇게
@@ -15,3 +17,6 @@ Markdown은 매우 유용하다
  wow It's very awesome.
 
  I loves you
+
+This is suggested by kirujournal
+-> will be pull
