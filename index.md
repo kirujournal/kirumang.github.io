@@ -6,6 +6,7 @@ Tel: (+43) 676-782-8889  Email: park@acin.tuwien.ac.at, kirumang@gmail.com
 Homepage: kirumang.github.io(English), kirumang.tistory.com(Korean)
 
 ## EDUCATION
+##### [10.2016-NOW] PhD Student, Research Assistant, Instituts für Automatisierungs- und Regelungstechnik (ACIN), Vision for Robotics Group, in TU Wien
 
 ##### [02.2009-02.2011] M. S. in School of Mechanical Engineering & Aerospace System, KAIST
 ###### General
